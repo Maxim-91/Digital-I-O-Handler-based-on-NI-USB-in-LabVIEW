@@ -56,3 +56,9 @@
 - Ensure the NI-DAQmx driver is installed and recognized by LabVIEW.
 - Verify the correct port and line configuration for both input and output channels.
 - Confirm that the NI-USB-600x device is connected and properly powered.
+
+## Code:
+### запис цифрових.vi
+![image](https://github.com/user-attachments/assets/22d6522b-6b8d-4cc1-b262-056d9f311a7c)
+### зчитування цифрових.vi
+![image](https://github.com/user-attachments/assets/4f863a76-25ff-4a76-bb6b-68a0c68b4955)
